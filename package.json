@@ -1,5 +1,5 @@
 {
-  "name": "bubble-sort-lg",
+  "name": "bubble-sort-lg-test",
   "version": "1.0.0",
   "description": "Bubble sort algorithm",
   "main": "index.js",
