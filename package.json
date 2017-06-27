@@ -1,0 +1,22 @@
+{
+  "name": "bubble-sort-lg",
+  "version": "1.0.0",
+  "description": "Bubble sort algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linzgroves/bubble-sort-lg.git"
+  },
+  "keywords": [
+    "bubblesort"
+  ],
+  "author": "Lindsay Groves <lindsay.groves@act-on.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linzgroves/bubble-sort-lg/issues"
+  },
+  "homepage": "https://github.com/linzgroves/bubble-sort-lg#readme"
+}
